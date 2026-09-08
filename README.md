@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Vishal!
 
 ### 🤖 AI & Data Science Student | 💻 Python Developer | 📊 Data Enthusiast
