@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm a pre-final-year **Artificial Intelligence & D
 
 ### 🤖 AI & Data Science
 
-* Machine Learning
 * Data Analysis
 * Artificial Intelligence
 * Data Visualization
@@ -51,11 +50,10 @@ Welcome to my GitHub profile! I'm a pre-final-year **Artificial Intelligence & D
 ## 📚 Currently Learning
 
 ```text
-Java              █████████░░  80%
+Python            █████████░░  80%
 SQL               ████████░░░  70%
-Python            ███████░░░░  60%
+Java              ███████░░░░  60%
 Data Structures   ███████░░░░  60%
-Machine Learning  █████░░░░░░  50%
 ```
 
 ---
@@ -84,14 +82,6 @@ Practicing coding problems to improve logical thinking and algorithmic skills.
 * 🤖 Develop AI & ML projects
 * 🧩 Solve more DSA problems
 * 🌟 Build a strong developer portfolio
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with other developers, students, and technology enthusiasts.
-
-📫 Feel free to reach out and collaborate on interesting projects!
 
 ---
 
